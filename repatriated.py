@@ -15,7 +15,7 @@ import shutil
 import unicodecsv as csv
 
 gbifuser = "chrissvi"
-gbifpass = "Taephoh4"
+gbifpass = ""
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
